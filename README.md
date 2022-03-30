@@ -1,13 +1,13 @@
 # mycamubot
 
-what is this?
+# what is this?
   this is python script which attend online class
  
-why it is?
+# why it is?
   i'm jamal mohamed college student ,during the pandemic i was attend class in online through mycamu portal ,further i decided to automate my class
   eventually i wrote code
   
- how to use ?
+ # how to use ?
     39,42 in those line you need to write your mycamu gmail and password
     
     
